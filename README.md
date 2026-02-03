@@ -5,8 +5,8 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 ## 📑 Índice
 
 * [1. Auditoria de Controles de Segurança e Conformidade](#1-auditoria-de-controles-de-segurança-e-conformidade)
-* [2. Análise de Tráfego de Rede e Diagnóstico DNS](#)
-* [3. Análise de Tráfego e Identificação de Ataque DoS (TCP SYN Flood)](#)
+* [2. Análise de Tráfego de Rede e Diagnóstico DNS](#2-análise-de-tráfego-de-rede-e-diagnóstico-dns)
+* [3. Análise de Tráfego e Identificação de Ataque DoS (TCP SYN Flood)](#3-análise-de-tráfego-e-identificação-de-ataque-dos-tcp-syn-flood)
 * [Certificado](#-certificado)
 
 ---
