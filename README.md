@@ -7,6 +7,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * [1. Auditoria de Controles de Segurança e Conformidade](#1-auditoria-de-controles-de-segurança-e-conformidade)
 * [2. Análise de Tráfego de Rede e Diagnóstico DNS](#2-análise-de-tráfego-de-rede-e-diagnóstico-dns)
 * [3. Análise de Tráfego e Identificação de Ataque DoS (TCP SYN Flood)](#3-análise-de-tráfego-e-identificação-de-ataque-dos-tcp-syn-flood)
+* [4. Investigação de Comportamento Malicioso em um Site](#4-investigacao-de-comportamento-malicioso-em-um-site)
 * [Certificado](#-certificado)
 
 ---
@@ -46,7 +47,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **Meu Objetivo:** Analisar os logs do tcpdump para identificar os protocolos de rede manipulados (DNS e HTTP). Documentei a cronologia do ataque, desde a exploração da senha fraca até o redirecionamento dos usuários.
 * **Entregável:** Relatório de Incidente de Segurança (com análise técnica e sugestões de prevenção futura).
 * **[🔗 Link para os arquivos do projeto](./4_Investigacao_de_Comportamento_Malicioso_em_um_Site)**
-* 
+
 ---
 
 ## 📜 Certificado
