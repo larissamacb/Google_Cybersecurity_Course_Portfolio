@@ -7,7 +7,8 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * [1. Auditoria de Controles de Segurança e Conformidade](#1-auditoria-de-controles-de-segurança-e-conformidade)
 * [2. Análise de Tráfego de Rede e Diagnóstico DNS](#2-análise-de-tráfego-de-rede-e-diagnóstico-dns)
 * [3. Análise de Tráfego e Identificação de Ataque DoS (TCP SYN Flood)](#3-análise-de-tráfego-e-identificação-de-ataque-dos-tcp-syn-flood)
-* [4. Investigação de Comportamento Malicioso em um Site](#4-investigacao-de-comportamento-malicioso-em-um-site)
+* [4. Investigação de Comportamento Malicioso em um Site](#4-investigacão-de-comportamento-malicioso-em-um-site)
+* [5. Fortalecimento de Rede e Avaliação de Risco](#5-fortalecimento-de-rede-e-avaliação-de-risco)
 * [Certificado](#-certificado)
 
 ---
@@ -47,6 +48,15 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **Meu Objetivo:** Analisar os logs do tcpdump para identificar os protocolos de rede manipulados (DNS e HTTP). Documentei a cronologia do ataque, desde a exploração da senha fraca até o redirecionamento dos usuários.
 * **Entregável:** Relatório de Incidente de Segurança (com análise técnica e sugestões de prevenção futura).
 * **[🔗 Link para os arquivos do projeto](./4_Investigacao_de_Comportamento_Malicioso_em_um_Site)**
+
+---
+
+### 5. Fortalecimento de Rede e Avaliação de Risco
+* **Atividade:** Elaboração de um plano de defesa em profundidade, selecionando ferramentas e técnicas de Network Hardening para corrigir vulnerabilidades críticas em uma infraestrutura corporativa.
+* **Cenário:** Uma organização de mídia social sofreu uma grave violação de dados (vazamento de PII) devido a falhas básicas de segurança. Uma auditoria revelou quatro vulnerabilidades principais: compartilhamento de senhas entre funcionários, uso de senhas de administrador padrão, ausência de regras de firewall e falta de Autenticação Multifator (MFA).
+* **Meu Objetivo:** Realizar uma Avaliação de Risco de Segurança para propor soluções técnicas específicas para cada falha encontrada.
+* **Entregável:** Relatório de Avaliação de Risco de Segurança com propostas de remediação.
+* **[🔗 Link para os arquivos do projeto](./5_Fortalecimento_de_Rede_e_Avaliacao_de_Risco)**
 
 ---
 
