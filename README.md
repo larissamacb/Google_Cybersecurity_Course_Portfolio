@@ -40,5 +40,14 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 
 ---
 
+### 4. Investigação de Comportamento Malicioso em um Site
+* **Atividade:** Resposta a incidente de segurança envolvendo comprometimento de servidor web, análise de tráfego (tcpdump) e documentação pós-incidente.
+* **Cenário:** O site yummyrecipesforme.com foi invadido por um ex-funcionário que utilizou um ataque de força bruta para descobrir a senha administrativa (que era a padrão). O atacante injetou código malicioso (JavaScript) que induzia os visitantes a baixar um malware e os redirecionava para um site falso (greatrecipesforme.com).
+* **Meu Objetivo:** Analisar os logs do tcpdump para identificar os protocolos de rede manipulados (DNS e HTTP). Documentei a cronologia do ataque, desde a exploração da senha fraca até o redirecionamento dos usuários.
+* **Entregável:** Relatório de Incidente de Segurança (com análise técnica e sugestões de prevenção futura).
+* **[🔗 Link para os arquivos do projeto](./4_Investigacao_de_Comportamento_Malicioso_em_um_Site)**
+* 
+---
+
 ## 📜 Certificado
 * **Status:** Em progresso.
