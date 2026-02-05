@@ -9,6 +9,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * [3. Análise de Tráfego e Identificação de Ataque DoS (TCP SYN Flood)](#3-análise-de-tráfego-e-identificação-de-ataque-dos-tcp-syn-flood)
 * [4. Investigação de Comportamento Malicioso em um Site](#4-investigacão-de-comportamento-malicioso-em-um-site)
 * [5. Fortalecimento de Rede e Avaliação de Risco](#5-fortalecimento-de-rede-e-avaliação-de-risco)
+* [6. Aplicação do Framework NIST CSF: Resposta a Incidente (ICMP Flood)](#6-aplicação-do-framework-nist-csf-resposta-a-incidente-icmp-flood)
 * [Certificado](#-certificado)
 
 ---
@@ -57,6 +58,15 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **Meu Objetivo:** Realizar uma Avaliação de Risco de Segurança para propor soluções técnicas específicas para cada falha encontrada.
 * **Entregável:** Relatório de Avaliação de Risco de Segurança com propostas de remediação.
 * **[🔗 Link para os arquivos do projeto](./5_Fortalecimento_de_Rede_e_Avaliacao_de_Risco)**
+
+---
+
+### 6. Aplicação do Framework NIST CSF: Resposta a Incidente (ICMP Flood)
+* **Atividade:** Elaboração de um relatório de análise de incidente utilizando os cinco pilares do NIST Cybersecurity Framework (CSF): Identificar, Proteger, Detectar, Responder e Recuperar.
+* **Cenário:** Uma empresa de multimídia sofreu uma interrupção de 2 horas em sua rede interna devido a um ataque de Negação de Serviço (DoS) do tipo ICMP Flood. O ataque explorou um firewall mal configurado, sobrecarregando os recursos da rede.
+* **Meu Objetivo:** Analisar o evento e estruturar um plano de segurança para prevenir recorrências. Mapeei as ações de resposta e melhoria dentro das categorias do NIST CSF.
+* **Entregável:** Relatório de Análise de Incidente (Mapeamento NIST CSF).
+* **[🔗 Link para os arquivos do projeto](./6_Aplicacao_do_Framework_NIST_CSF_Resposta_a_Incidente)**
 
 ---
 
