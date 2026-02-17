@@ -86,7 +86,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **Cenário:** Uma empresa detectou uma transferência bancária suspeita para uma conta desconhecida. Fui encarregado de investigar a origem da transação e identificar quais falhas nos controles de acesso permitiram que isso acontecesse.
 * **Meu Objetivo:** Cruzar os dados do Registro de Eventos (IP, data, hora) com o Diretório de Funcionários para identificar o autor da ação e as vulnerabilidades exploradas.
 * **Entregável:** Planilha de Avaliação de Controle de Acesso e Recomendações.
-* **[🔗 Link para os arquivos do projeto](./8_Auditoria_de_Controle_de Acesso_e_Investigacao_de_Incidente)**
+* **[🔗 Link para os arquivos do projeto](./8_Auditoria_de_Controle_de_Acesso_e_Investigacao_de_Incidente)**
 
 ---
 
