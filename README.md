@@ -11,6 +11,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * [5. Fortalecimento de Rede e Avaliação de Risco](#5-fortalecimento-de-rede-e-avaliação-de-risco)
 * [6. Aplicação do Framework NIST CSF: Resposta a Incidente (ICMP Flood)](#6-aplicação-do-framework-nist-csf-resposta-a-incidente-icmp-flood)
 * [7. Avaliação de Privacidade de Dados e Princípio do Menor Privilégio](#7-avaliação-de-privacidade-de-dados-e-princípio-do-menor-privilégio)
+* [8. Auditoria de Controle de Acesso e Investigação de Incidente](#8-auditoria-de-controle-de-acesso-e-investigação-de-incidente)
 * [Certificado](#-certificado)
 
 ---
@@ -77,6 +78,15 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **Meu Objetivo:** Analisar os fatores que levaram ao vazamento e propor melhorias nos controles de acesso. Utilizei a publicação especial NIST SP 800-53 (Controle AC-6) para fundamentar recomendações que evitassem a recorrência desse erro.
 * **Entregável:** Planilha de Análise de Vazamento de Dados e Recomendações de Controle.
 * **[🔗 Link para os arquivos do projeto](./7_Avaliacao_de_Privacidade_de_Dados_e_Principio_do_Menor_Privilegio)**
+
+---
+
+### 8. Auditoria de Controle de Acesso e Investigação de Incidente
+* **Atividade:** Investigação de uma transação financeira não autorizada através da análise de logs de eventos e diretórios de funcionários, focando na tríade AAA (Autenticação, Autorização e Contabilização).
+* **Cenário:** Uma empresa detectou uma transferência bancária suspeita para uma conta desconhecida. Fui encarregado de investigar a origem da transação e identificar quais falhas nos controles de acesso permitiram que isso acontecesse.
+* **Meu Objetivo:** Cruzar os dados do Registro de Eventos (IP, data, hora) com o Diretório de Funcionários para identificar o autor da ação e as vulnerabilidades exploradas.
+* **Entregável:** Planilha de Avaliação de Controle de Acesso e Recomendações.
+* **[🔗 Link para os arquivos do projeto](./8_Auditoria_de_Controle_de Acesso_e_Investigacao_de_Incidente)**
 
 ---
 
