@@ -10,6 +10,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * [4. Investigação de Comportamento Malicioso em um Site](#4-investigacão-de-comportamento-malicioso-em-um-site)
 * [5. Fortalecimento de Rede e Avaliação de Risco](#5-fortalecimento-de-rede-e-avaliação-de-risco)
 * [6. Aplicação do Framework NIST CSF: Resposta a Incidente (ICMP Flood)](#6-aplicação-do-framework-nist-csf-resposta-a-incidente-icmp-flood)
+* [7. Avaliação de Privacidade de Dados e Princípio do Menor Privilégio](#7-avaliação-de-privacidade-de-dados-e-princípio-do-menor-privilégio)
 * [Certificado](#-certificado)
 
 ---
@@ -67,6 +68,15 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **Meu Objetivo:** Analisar o evento e estruturar um plano de segurança para prevenir recorrências. Mapeei as ações de resposta e melhoria dentro das categorias do NIST CSF.
 * **Entregável:** Relatório de Análise de Incidente (Mapeamento NIST CSF).
 * **[🔗 Link para os arquivos do projeto](./6_Aplicacao_do_Framework_NIST_CSF_Resposta_a_Incidente)**
+
+---
+
+### 7. Avaliação de Privacidade de Dados e Princípio do Menor Privilégio
+* **Atividade:** Análise de um incidente de vazamento de dados (Data Leak) causado por erro humano, avaliando a aplicação do princípio do Menor Privilégio (Least Privilege) com base nas diretrizes do NIST SP 800-53.
+* **Cenário:** Uma empresa de tecnologia educacional sofreu um vazamento de dados sensíveis (planos de negócios e análises de clientes) quando um funcionário compartilhou acidentalmente uma pasta interna com um parceiro externo. A investigação revelou que as permissões de acesso não foram revogadas após uma reunião interna, violando o princípio do menor privilégio.
+* **Meu Objetivo:** Analisar os fatores que levaram ao vazamento e propor melhorias nos controles de acesso. Utilizei a publicação especial NIST SP 800-53 (Controle AC-6) para fundamentar recomendações que evitassem a recorrência desse erro.
+* **Entregável:** Planilha de Análise de Vazamento de Dados e Recomendações de Controle.
+* **[🔗 Link para os arquivos do projeto](./7_Avaliacao_de_Privacidade_de_Dados_e_Principio_do_Menor_Privilegio)**
 
 ---
 
