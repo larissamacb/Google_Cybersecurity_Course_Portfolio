@@ -12,6 +12,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * [6. Aplicação do Framework NIST CSF: Resposta a Incidente (ICMP Flood)](#6-aplicação-do-framework-nist-csf-resposta-a-incidente-icmp-flood)
 * [7. Avaliação de Privacidade de Dados e Princípio do Menor Privilégio](#7-avaliação-de-privacidade-de-dados-e-princípio-do-menor-privilégio)
 * [8. Auditoria de Controle de Acesso e Investigação de Incidente](#8-auditoria-de-controle-de-acesso-e-investigação-de-incidente)
+* [9. Análise de Vetor de Ataque Físico e Risco de USB (USB Baiting)](#9-análise-de-vetor-de-ataque-físico-e-risco-de-usb-usb-baiting)
 * [Certificado](#-certificado)
 
 ---
@@ -87,6 +88,15 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **Meu Objetivo:** Cruzar os dados do Registro de Eventos (IP, data, hora) com o Diretório de Funcionários para identificar o autor da ação e as vulnerabilidades exploradas.
 * **Entregável:** Planilha de Avaliação de Controle de Acesso e Recomendações.
 * **[🔗 Link para os arquivos do projeto](./8_Auditoria_de_Controle_de_Acesso_e_Investigacao_de_Incidente)**
+
+---
+
+### 9. Análise de Vetor de Ataque Físico e Risco de USB (USB Baiting)
+* **Atividade:** Avaliação de riscos e vetores de ataque baseada em um cenário de USB Baiting, com foco em ameaças de engenharia social e vazamento de dados.
+* **Cenário:** Durante um exercício de segurança simulando a rotina de um hospital, um pendrive abandonado no estacionamento foi recolhido e aberto em um ambiente seguro (Sandbox). Fui encarregado de analisar as evidências (o conteúdo extraído do dispositivo) para determinar a gravidade do incidente.
+* **Meu Objetivo:** Avaliar os arquivos encontrados sob a ótica de um atacante (Attacker Mindset). Analisei a mistura perigosa de dados pessoais do gerente de RH (PII) com documentos corporativos confidenciais (escalas de turnos e dados de novos contratados) e mapeei como isso poderia ser explorado.
+* **Entregável:** Relatório de Análise de Risco (focado em ataques físicos e Engenharia Social).
+* **[🔗 Link para os arquivos do projeto](./9_Analise_de_Vetor_de_Ataque_Fisico_e_Risco_de_USB)**
 
 ---
 
