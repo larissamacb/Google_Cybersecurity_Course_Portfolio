@@ -13,6 +13,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * [7. Avaliação de Privacidade de Dados e Princípio do Menor Privilégio](#7-avaliação-de-privacidade-de-dados-e-princípio-do-menor-privilégio)
 * [8. Auditoria de Controle de Acesso e Investigação de Incidente](#8-auditoria-de-controle-de-acesso-e-investigação-de-incidente)
 * [9. Análise de Vetor de Ataque Físico e Risco de USB (USB Baiting)](#9-análise-de-vetor-de-ataque-físico-e-risco-de-usb-usb-baiting)
+* [10. Resposta a Incidente de Phishing e Execução de Playbook SOC](#10-resposta-a-incidente-de-phishing-e-execução-de-playbook-soc)
 * [Certificado](#-certificado)
 
 ---
@@ -99,6 +100,16 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **[🔗 Link para os arquivos do projeto](./9_Analise_de_Vetor_de_Ataque_Fisico_e_Risco_de_USB)**
 
 ---
+
+### 10. Resposta a Incidente de Phishing e Execução de Playbook SOC
+* **Atividade:** Triagem e investigação de um alerta de segurança focado em Phishing, seguindo procedimentos operacionais padrão (Playbook) de um Centro de Operações de Segurança (SOC).
+* **Cenário:** Atuando como Analista de Nível 1 (Tier 1), recebi um chamado (ticket A-2703) de gravidade média alertando sobre o possível download de malware por um funcionário. O funcionário havia recebido e aberto um anexo de e-mail suspeito disfarçado de currículo para uma vaga de engenharia.
+* **Meu Objetivo:** Executar as etapas do Phishing Playbook da organização para avaliar o alerta, analisar os artefatos (cabeçalhos do e-mail, remetente, erros gramaticais) e determinar a veracidade e periculosidade da ameaça.
+* **Entregável:** Tíquete de Alerta atualizado (com documentação da investigação e justificativa de escalonamento).
+* **[🔗 Link para os arquivos do projeto](./10_Resposta_a_Incidente_de_Phishing_e_Execucao_de_Playbook_SOC)**
+
+---
+
 
 ## 📜 Certificado
 * **Status:** Em progresso.
