@@ -14,6 +14,7 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * [8. Auditoria de Controle de Acesso e Investigação de Incidente](#8-auditoria-de-controle-de-acesso-e-investigação-de-incidente)
 * [9. Análise de Vetor de Ataque Físico e Risco de USB (USB Baiting)](#9-análise-de-vetor-de-ataque-físico-e-risco-de-usb-usb-baiting)
 * [10. Resposta a Incidente de Phishing e Execução de Playbook SOC](#10-resposta-a-incidente-de-phishing-e-execução-de-playbook-soc)
+* [11. Diário do Responsável pelo Incidente](#11-diário-do-responsável-pelo-incidente) 
 * [Certificado](#-certificado)
 
 ---
@@ -107,6 +108,15 @@ Este repositório documenta os projetos práticos e laboratórios concluídos du
 * **Meu Objetivo:** Executar as etapas do Phishing Playbook da organização para avaliar o alerta, analisar os artefatos (cabeçalhos do e-mail, remetente, erros gramaticais) e determinar a veracidade e periculosidade da ameaça.
 * **Entregável:** Tíquete de Alerta atualizado (com documentação da investigação e justificativa de escalonamento).
 * **[🔗 Link para os arquivos do projeto](./10_Resposta_a_Incidente_de_Phishing_e_Execucao_de_Playbook_SOC)**
+
+---
+
+### 11. Diário do Responsável pelo Incidente
+* **Atividade:** Documentação sistemática e análise de múltiplos incidentes de segurança, utilizando o framework das "5 perguntas" (5 W's) para registar vetores de ataque, impactos e medidas de remediação.
+* **Cenário:** Durante o processo de resposta a incidentes em diferentes setores (Saúde, Finanças e E-commerce), foi necessária a criação de um diário oficial para documentar desde ataques de engenharia social até vulnerabilidades críticas em aplicações web.
+* **Meu Objetivo:** Atuar como Incident Handler, realizando a triagem de alertas de SOC e a investigação de causas raiz. Foquei na análise detalhada dos "5 W's" (Quem, O quê, Quando, Onde e Por quê) para estruturar relatórios que auxiliam na tomada de decisão estratégica e técnica.
+* **Entregável:** Diário de Incidentes estruturado com 4 entradas.
+* **[🔗 Link para os arquivos do projeto](./11_Diario_do_Responsavel_pelo_Incidente)**
 
 ---
 
